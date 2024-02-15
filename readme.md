@@ -56,6 +56,16 @@ to solve this issue, i've created another drawing method that use a random sampl
 
 here a comparaison of the render :
 
-<img src="images/Menger_unprecise_.png" alt="image" width="250" height="auto" margin="auto">
-<img src="images/Menger_precice_.png" alt="image" width="250" height="auto" margin="auto">
+<img src="images/Menger_unprecise_.png" alt="image" width="500" height="auto" margin="auto">
+<img src="images/Menger_precise_.png" alt="image" width="500" height="auto" margin="auto">
 
+the difference is more clear if we zoom in the picture:
+
+<img src="images/Menger_unprecise_zoom.png" alt="image" width="250" height="auto" margin="auto">
+<img src="images/Menger_precise_zoom.png" alt="image" width="250" height="auto" margin="auto">
+
+the size of the sampling of each pixel is an attribute that can be modified.
+
+## future of the project.
+
+i've created this library without any particuliar final objective, so if you want me to add some functionality about this project (or if you find bugs). you can talk to me on my discord server : https://discord.gg/xhWmyCpKbW.
