@@ -10,6 +10,8 @@ to install the library download the git, and add the file **Fractal.jar** to the
 
 ## basic utilisation
 
+the detail of the library is availible here on the [javadocs](https://physicdev.github.io/Fractal/)
+
 in order to use it you need to create a static method to compute the maximum fractal depth in which a point is in the fractal. Usualy the easiest way to do that is by making a recursive function.
 
 the fractal also need a dimension, this is use to ensure that the program will work as intented and prevent error.
